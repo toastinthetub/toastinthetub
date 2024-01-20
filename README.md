@@ -1,4 +1,2 @@
 - 🌱 I’m @toastinthetub
-- 🌱 Interested in python, c and costco branded instant coffee.
-- 🌱 Currently learning everything else.
-- 🌱 Certified linux gremlin
+- 🌱 certified gremlin
