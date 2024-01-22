@@ -1,2 +1,1 @@
-- 🌱 I’m @toastinthetub
-- 🌱 certified gremlin
+certified gremlin
