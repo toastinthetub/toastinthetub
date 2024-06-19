@@ -2,7 +2,7 @@
 hello there, i am sam 📺 
 </p></h1>
 <h3 align="center">
-i do things sometimes;
+i do things occasionally;
 </h3><br><p align="center">
 <b>🧭 rust enthusiast, mediocre musician, avid spanner monkey 🧭</b><br><br>
 <b>🍻 if i'm not programming i'm more than likely playing Zelda! 🍻</b></p>
