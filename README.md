@@ -1,9 +1,9 @@
 <h1><p align="center">
-hello there, i am sam 📺 
+toastinthetub
 </p></h1>
 <h3 align="center">
-i do things occasionally;
+i do things occasionally
 </h3><br><p align="center">
-<b>- rust enthusiast, mediocre musician, avid spanner monkey -</b><br><br>
-<b>- if i'm not programming i'm more than likely playing through zelda. again. -</b></p>
+<b>- rust enthusiast -</b><br><br>
+<b>- . -</b></p>
 <div align="center"><img src="https://media.tenor.com/Mr4lx7zvxEoAAAAi/malons-rose-malon-rose.gif"></div>
